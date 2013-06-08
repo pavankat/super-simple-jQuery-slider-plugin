@@ -8,14 +8,14 @@ This is a very simple slideshow image plugin. It cycles through a div and shows 
 
 To use this plugin, simply include jQuery and the code.js file at the bottom of your html document, like this:
 
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-  <script src="code.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script src="code.js"></script>
 
 
 Then make a div with a class of slideshow and include the images you want to cycle through inside the div like this:
 
-  <div class="slideshow">
-    <img src="cat1.jpg" alt=""/>
-    <img src="cat2.jpg" alt=""/>
-    <img src="cat3.jpg" alt=""/>
-  </div>
+	<div class="slideshow">
+		<img src="cat1.jpg" alt=""/>
+   		<img src="cat2.jpg" alt=""/>
+   		<img src="cat3.jpg" alt=""/>
+	</div>
